@@ -7,3 +7,4 @@
 
 ### And the following open source packages: 
 * [TrustlessMulticall](https://github.com/TrustlessFi/TrustlessMulticall) - A multicall library for viewing virtually unlimited pieces ethereum chain data in a single request, while maintaining fully typed return data. 
+* [TrustlessUtils](https://github.com/TrustlessFi/TrustlessUtils) - Utils common in Trustless Typescript repositories. 
