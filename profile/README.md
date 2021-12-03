@@ -1,5 +1,17 @@
 # Welcome to Trustless
 
+**Trustless** is a community dedicated to re-building foundational defi protocols that fail to live up to their promises of censorship resistance and decentralization in a maximally Trustless way.
+
+The **Trustless Currency Protocol** allows anyone get debt and own a portion of TCP without fear of being censored. 
+
+**Some of the main features of Trustless Currency Protocol are:**
+
+- Censorship Resistance. TCP was designed to be as extremely difficult to manipulate or control, the only reason blockchain exists in the first place.
+- Community Ownership. You will own a portion of TCP if you participate at any time.
+- Equitable Genesis. Genesis tokens (20% of the total supply) will be distributed to anyone that participates regardless of how much capital they have.
+
+[Read More](https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9)
+
 ### Primary repositories: 
 
 * [tcp-ui](https://github.com/TrustlessFi/tcp-ui) - The typescript/react/redux open source UI for the Trustless Currency Protocol.
