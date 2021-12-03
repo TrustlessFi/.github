@@ -5,8 +5,9 @@
 ### Primary repositories: 
 
 * [tcp-ui](https://github.com/TrustlessFi/tcp-ui) - The typescript/react/redux open source UI for the Trustless Currency Protocol.
-* [tcp-bots](https://github.com/TrustlessFi/tcp-bots) - The typescript library for building any keeper bot for the Trustless Currency Protocol. Bots for liquidating positions, starting auctions, and more are already included. 
 * [tdao-ui](https://github.com/TrustlessFi/tdao-ui) - The typescript/react/redux open source UI for the Trustless DAO.
+* [tcp-bots](https://github.com/TrustlessFi/tcp-bots) - The typescript library for building any keeper bot for the Trustless Currency Protocol. Bots for liquidating positions, starting auctions, and more are already included. 
+
 
 
 ### And the following open source packages: 
