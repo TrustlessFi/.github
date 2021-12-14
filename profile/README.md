@@ -1,14 +1,14 @@
 # Welcome to Trustless
 
-**Trustless** is a community dedicated to re-building foundational defi protocols that fail to live up to their promises of censorship resistance and decentralization in a maximally Trustless way.
+**Trustless** is a community dedicated to re-building foundational defi protocols that do not live up to ideals of true trustlessness and decentralization.
 
-The **Trustless Currency Protocol** allows anyone get debt and own a portion of TCP without fear of being censored. 
+The **Trustless Currency Protocol** allows anyone to borrow **Hue** and own a portion of **TCP** without fear of being censored. 
 
-**Some of the main features of Trustless Currency Protocol are:**
+**Trustless Currency Protocol highlights:**
 
-- Censorship Resistance. TCP was designed to be as extremely difficult to manipulate or control, the only reason blockchain exists in the first place.
-- Community Ownership. You will own a portion of TCP if you participate at any time.
-- Equitable Genesis. Genesis tokens (20% of the total supply) will be distributed to anyone that participates regardless of how much capital they have.
+- **Censorship Resistance**. TCP was designed to be extremely difficult to manipulate or control.
+- **Community Ownership**. You will own a portion of TCP if you participate at any time.
+- **Equitable Genesis**. Genesis tokens (20% of the total supply) will be distributed to anyone that participates regardless of how much capital they have.
 
 [Read More](https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9)
 
@@ -20,7 +20,8 @@ The **Trustless Currency Protocol** allows anyone get debt and own a portion of 
 
 ### Trustless public npm packages: 
 
-* [Protocol](https://github.com/TrustlessFi/Protocol) - Functions to fetch fully typed representations of all Trustless protocols from the chains it is deployed to. This is first step for building tools on Trustless.
+* [Protocol](https://github.com/TrustlessFi/Protocol) - Functions to fetch fully typed representations of all Trustless protocols from the chains they are deployed to. This is first step for building tools on Trustless.
+* [Addresses](https://github.com/TrustlessFi/Addresses) - Addresses for deployed Trustless protocols.
 * [Artifacts](https://github.com/TrustlessFi/Artifacts) - Artifacts (including ABIs) for the Trustless protocols.
 * [Multicall](https://github.com/TrustlessFi/Multicall) - A multicall library for viewing virtually unlimited pieces ethereum chain data in a single request, while maintaining fully typed return data. 
 * [Typechain](https://github.com/TrustlessFi/Typechain) - Typechain type files for the Trustless protocols.
