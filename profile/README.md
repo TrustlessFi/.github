@@ -20,7 +20,7 @@ The **Trustless Currency Protocol** allows anyone get debt and own a portion of 
 
 ### Trustless public npm packages: 
 
-* [Addresses](https://github.com/TrustlessFi/Addresses) - Addresses for deployed Trustless protocols.
+* [Protocol](https://github.com/TrustlessFi/Protocol) - Functions to fetch fully typed representations of all Trustless protocols from the chains it is deployed to. This is first step for building tools on Trustless.
 * [Artifacts](https://github.com/TrustlessFi/Artifacts) - Artifacts (including ABIs) for the Trustless protocols.
 * [Multicall](https://github.com/TrustlessFi/Multicall) - A multicall library for viewing virtually unlimited pieces ethereum chain data in a single request, while maintaining fully typed return data. 
 * [Typechain](https://github.com/TrustlessFi/Typechain) - Typechain type files for the Trustless protocols.
