@@ -22,7 +22,7 @@ The **Trustless Currency Protocol** allows anyone to borrow **Hue** and own a po
 
 * [Protocol](https://github.com/TrustlessFi/Protocol) - Functions to fetch fully typed representations of all Trustless protocols from the chains they are deployed to. This is first step for building tools on Trustless.
 * [Addresses](https://github.com/TrustlessFi/Addresses) - Addresses for deployed Trustless protocols.
-* * [Typechain](https://github.com/TrustlessFi/Typechain) - Typechain type files for the Trustless protocols.
+* [Typechain](https://github.com/TrustlessFi/Typechain) - Typechain type files for the Trustless protocols.
 * [Artifacts](https://github.com/TrustlessFi/Artifacts) - Artifacts (including ABIs) for the Trustless protocols.
 * [Multicall](https://github.com/TrustlessFi/Multicall) - A multicall library for viewing virtually unlimited pieces ethereum chain data in a single request, while maintaining fully typed return data. 
 * [Utils](https://github.com/TrustlessFi/Utils) - Utils common in Trustless Typescript repositories. 
