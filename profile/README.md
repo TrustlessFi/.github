@@ -6,12 +6,7 @@ The **Trustless Currency Protocol** allows anyone to borrow **Hue** and own a po
 
 #### Project Links: 
 
-* [TCP Whitepaper](https://github.com/TrustlessFi/Whitepapers/blob/master/TCP_Whitepaper.pdf)
-* [Website](https://www.trustless.fi/)
-* [Discord](http://discord.gg/C2C9Q2p8bd)
-* [Documentation](https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9)
-* [Community Calendar](https://calendar.google.com/calendar/embed?src=trustlessfi%40gmail.com)
-* [Twitter](https://twitter.com/TrustlessFi)
+[Website](https://www.trustless.fi/) - [Discord](http://discord.gg/C2C9Q2p8bd) - [Twitter](https://twitter.com/TrustlessFi) - [Documentation](https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9) - [TCP Whitepaper](https://github.com/TrustlessFi/Whitepapers/blob/master/TCP_Whitepaper.pdf) - [Community Calendar](https://calendar.google.com/calendar/embed?src=trustlessfi%40gmail.com)
 
 **Trustless Currency Protocol highlights:**
 
