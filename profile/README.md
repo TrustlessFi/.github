@@ -4,6 +4,15 @@
 
 The **Trustless Currency Protocol** allows anyone to borrow **Hue** and own a portion of **TCP** without fear of being censored. 
 
+### Project Links: 
+
+* [TCP Whitepaper](https://github.com/TrustlessFi/Whitepapers/blob/master/TCP_Whitepaper.pdf)
+* [Website](https://www.trustless.fi/)
+* [Discord](http://discord.gg/C2C9Q2p8bd)
+* [Documentation](https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9)
+* [Community Calendar](https://calendar.google.com/calendar/embed?src=trustlessfi%40gmail.com)
+* [Twitter](https://twitter.com/TrustlessFi)
+
 **Trustless Currency Protocol highlights:**
 
 - **Censorship Resistance**. TCP was designed to be extremely difficult to manipulate or control.
@@ -27,11 +36,3 @@ The **Trustless Currency Protocol** allows anyone to borrow **Hue** and own a po
 * [Multicall](https://github.com/TrustlessFi/Multicall) - A multicall library for viewing virtually unlimited pieces ethereum chain data in a single request, while maintaining fully typed return data. 
 * [Utils](https://github.com/TrustlessFi/Utils) - Utils common in Trustless Typescript repositories. 
 
-### Project Links: 
-
-* [TCP Whitepaper](https://github.com/TrustlessFi/Whitepapers/blob/master/TCP_Whitepaper.pdf)
-* [Website](https://www.trustless.fi/)
-* [Discord](http://discord.gg/C2C9Q2p8bd)
-* [Documentation](https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9)
-* [Community Calendar](https://calendar.google.com/calendar/embed?src=trustlessfi%40gmail.com)
-* [Twitter](https://twitter.com/TrustlessFi)
